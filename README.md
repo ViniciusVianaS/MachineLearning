@@ -6,5 +6,5 @@
 
 # Código 2
 <p><b>Esse código está relacionado à analise de dados financeiros para prever movimentos de preços futuros.</b></p>
-<p><b>Assim como o primeiro código, esse tambem foi feito com python e as bibliotecas (pandas e sklearn).</b></p>
+<p><b>Assim como no primeiro código, esse tambem foi feito com python e as bibliotecas (pandas e sklearn).</b></p>
 <a href="https://colab.research.google.com/drive/1anl4vmGjpp8XjA2VevPzzxVJjJqCCoC4?usp=sharing">Link do código no colab</a>
