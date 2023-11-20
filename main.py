@@ -1,0 +1,2 @@
+print("OS CÓDIGOS ESTÃO NO README")
+print("TODOS ESTÃO NO COLAB")
